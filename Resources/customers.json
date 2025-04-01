@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "DisplayName": "Bishank",
+    "Locations": [{ "City": "Mumbai" }],
+    "IsActive": true,
+    "LocationErrors": ["error"]
+  },
+  {
+    "Id": 2,
+    "DisplayName": "Aarav",
+    "Locations": [{ "City": "Delhi" }],
+    "IsActive": true,
+    "LocationErrors": ["error"]
+  },
+  {
+    "Id": 3,
+    "DisplayName": "Priya",
+    "Locations": [{ "City": "Bangalore" }],
+    "IsActive": true,
+    "LocationErrors": []
+  },
+  {
+    "Id": 4,
+    "DisplayName": "Saanvi",
+    "Locations": [{ "City": "Mumbai" }],
+    "IsActive": false,
+    "LocationErrors": []
+  },
+  {
+    "Id": 5,
+    "DisplayName": "Rohan",
+    "Locations": [{ "City": "Kolkata" }],
+    "IsActive": true,
+    "LocationErrors": []
+  },
+  {
+    "Id": 6,
+    "DisplayName": "Arjun",
+    "Locations": [{ "City": "Hyderabad" }],
+    "IsActive": false,
+    "LocationErrors": ["error"]
+  }
+]
